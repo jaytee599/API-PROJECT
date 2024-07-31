@@ -1,0 +1,17 @@
+{
+  "name": "royal-touristz",
+  "version": "1.0.0",
+  "description": "travel",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^2.0.0"
+  }
+}
+
